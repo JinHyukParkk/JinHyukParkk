@@ -11,7 +11,7 @@
 - **Etri(한국전자통신연구원)**
     - 공간정보 연구실 연구연수생 *(Jan 2018 ~ Feb 2018)*
 - **Mobigen**
-    - DevOps 엔지니어 인턴 * (Jan 2017 ~ Jun 2017)*
+    - DevOps 엔지니어 인턴 *(Jan 2017 ~ Jun 2017)*
 
 
 ## Activity
