@@ -6,6 +6,7 @@
     <br/>
 ## Experience
 - **AfreecaTV** 
+    - 광고 서비스 *(Jan 2022 ~ )*
     - 검색 서비스 *(Jan 2020 ~ )*
     - 전사 웹 서비스 *(May 2018 ~ Dec 2019)*
     <br/>
