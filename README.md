@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=white&section=header&text=Jinhyuk%20Park)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=#FFFFFF&section=header&text=Jinhyuk%20Park)
 <!-- 
 type : wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 text : %20 띄어쓰기
