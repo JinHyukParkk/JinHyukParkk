@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=egg&color=white&height=10&section=header&text=Jinhyuk%20Park&fontSize=20)
+
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=Jinhyuk%20Park&height=150&fontSize=100&fontColor=#FFFFFF)
+
 <!-- 
 type : wave, egg, shark, slice, rect, soft, rounded, sylinder, waving, transparent
 text : %20 띄어쓰기
@@ -24,7 +26,3 @@ text : %20 띄어쓰기
 ## Activity
 
 ![Hyuk's github stats](https://github-readme-stats.vercel.app/api?username=JinHyukParkk&show_icons=true&theme=merko)
-
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
-
