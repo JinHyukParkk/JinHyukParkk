@@ -24,5 +24,6 @@ text : %20 띄어쓰기
 
     <br/>
 ## Activity
+<a href=#><img src="contributions.svg"></a>
 
 ![Hyuk's github stats](https://github-readme-stats.vercel.app/api?username=JinHyukParkk&show_icons=true&theme=merko)
