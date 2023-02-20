@@ -9,17 +9,20 @@ text : %20 띄어쓰기
 ## Position
 - **Back-end Engineer**
 
-    <br/>
+<br/>
 ## Experience
-- **AfreecaTV** 
+- **우아한 형제들**
+    - 검색 서비스 *(Fab 2023 ~ )*
+    <br/>
+- **아프리카TV** 
     - 광고 서비스 *(Jan 2022 ~ Dec 2022)*
     - 검색 서비스 *(Jan 2020 ~ May 2022)*
     - 전사 웹 서비스 *(May 2018 ~ Dec 2019)*
     <br/>
-- **Etri(한국전자통신연구원)**
+- **한국전자통신연구원**
     - 공간정보 연구실 연구연수생 *(Jan 2018 ~ Feb 2018)*
     <br/>
-- **Mobigen**
+- **모비젠**
     - DevOps 엔지니어 인턴 *(Jan 2017 ~ Jun 2017)*
 
     <br/>
