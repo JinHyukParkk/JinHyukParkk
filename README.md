@@ -27,6 +27,7 @@ text : %20 띄어쓰기
 - DevOps 엔지니어 인턴 *(Jan 2017 ~ Jun 2017)*
 
 ## Activity
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyukParkk&layout=compact&theme=merko)
 ![Hyuk's github stats](https://github-readme-stats.vercel.app/api?username=JinHyukParkk&show_icons=true&theme=merko)
 
 <a href=#><img src="contributions.svg"></a>
