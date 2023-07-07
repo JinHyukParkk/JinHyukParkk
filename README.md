@@ -32,6 +32,8 @@ text : %20 띄어쓰기
 ### 모비젠
 - DevOps 엔지니어 인턴 *(Jan 2017 ~ Jun 2017)*
 
+<br/>
+
 ## Activity
 ![Hyuk's github stats](https://github-readme-stats.vercel.app/api?username=JinHyukParkk&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyukParkk&layout=compact&theme=merko)
