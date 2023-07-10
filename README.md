@@ -35,12 +35,11 @@ text : %20 띄어쓰기
 
 <br/>
 
-## Activity
+## Activit
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 ![Hyuk's github stats](https://github-readme-stats.vercel.app/api?username=JinHyukParkk&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyukParkk&layout=compact&theme=merko)
-
-
-<img src="/github-metrics.svg" alt="Metrics" width="60%">
 
 
 <a href=#><img src="contributions.svg"></a>
