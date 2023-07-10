@@ -36,7 +36,7 @@ text : %20 띄어쓰기
 <br/>
 
 ## Activit
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+<img src="/github-metrics.svg" alt="Metrics" width="70%">
 
 ![Hyuk's github stats](https://github-readme-stats.vercel.app/api?username=JinHyukParkk&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinHyukParkk&layout=compact&theme=merko)
